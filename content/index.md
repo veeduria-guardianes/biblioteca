@@ -28,6 +28,7 @@ title: 🌊 Biblioteca de la Veeduría
 | [[07-Marco Legal - Índice\|Marco legal]] | Cada norma y sentencia con su cita y texto oficial |
 | [[08-Actas y Documentos - Índice\|Actas y documentos]] | El Acta de Concertación 001/2025, concepto jurídico, manifiesto |
 | [[09-Hallazgos - Índice\|Hallazgos]] | Lo que emerge al cruzar la información |
+| [[La Propuesta Comunicativa — Síntesis pública]] 📣 | La estrategia de comunicación: sus 10 elementos, síntesis y rutas |
 
 ## 🔍 Cómo usar esta biblioteca
 
