@@ -1,6 +1,6 @@
 ---
 aliases: [propuesta comunicativa, resumen público campaña]
-tags: [campaña, propuesta, resumen-publico]
+tags: [campaña, propuesta, sintesis-publica]
 ---
 
 # 📣 La Propuesta Comunicativa — Síntesis pública
